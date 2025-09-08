@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224220077
+# Name:Ramsanjay C
+# Date:08-09-2025
 
 
 # AIM:
@@ -50,7 +50,7 @@ Specifying the context and requirements of a system
 
 
 
-
+<img width="1240" height="877" alt="image" src="https://github.com/user-attachments/assets/a5c89510-4205-4051-838c-a8e186957853" />
 
 
 
@@ -68,6 +68,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1213" height="749" alt="image" src="https://github.com/user-attachments/assets/b888f9e6-1a1c-4f7b-a1f6-16a2a2788970" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,7 +77,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+<img width="871" height="745" alt="image" src="https://github.com/user-attachments/assets/2fd4a464-e4a1-483f-9f15-4ead296b71f9" />
 
 
 # PACKAGE DIAGRAM:
@@ -106,6 +107,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1031" height="744" alt="image" src="https://github.com/user-attachments/assets/2a21b26e-f268-4271-95ee-e4d0f24813b4" />
 
 
 
@@ -127,6 +129,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1111" height="794" alt="image" src="https://github.com/user-attachments/assets/b15b18d8-9d27-4585-ad46-67dac245886c" />
 
 
 
